@@ -1,1 +1,3 @@
-ator 1   - ator2   -   ator 3
+ator 1
+ator 2
+ator 3
